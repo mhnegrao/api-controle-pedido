@@ -8,7 +8,7 @@ mongoose.models = {};
 mongoose.modelSchemas = {};
 const userDb = "mhnegrao";
 const password = "mongocontroleservicoX3p06x3a";
-const uriDb = `mongodb+srv://${userDb}:${password}@cluster0.3fnlm.mongodb.net/api_controle_servico`;
+const uriDb = `mongodb+srv://${userDb}:${password}@cluster0.3fnlm.mongodb.net/api_controle_pedido`;
 const localDb = "mongodb://localhost/api_controle_servico";
 const connectionString = `${localDb}`;
 
